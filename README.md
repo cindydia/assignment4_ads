@@ -160,9 +160,3 @@ This project improved my understanding of graph structures and algorithm complex
 ![Third](docs/screenshots/3.png)
 
 
-
-
-
-Execution time was measured using:
-```java
-System.nanoTime()
