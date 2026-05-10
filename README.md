@@ -155,8 +155,8 @@ This project improved my understanding of graph structures and algorithm complex
 
 ## Screenshots
 
-![First](assignment4/screenshots/1.png)
-![Second](assignment4screenshots/2.png)
-![Third](assignment4/screenshots/3.png)
+![First](screenshots/1.png)
+![Second](screenshots/2.png)
+![Third](screenshots/3.png)
 
 
